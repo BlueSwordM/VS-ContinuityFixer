@@ -1,5 +1,5 @@
-#include "VapourSynth.h"
-#include "VSHelper.h"
+#include "/usr/local/include/vapoursynth/VapourSynth.h"
+#include "/usr/local/include/vapoursynth/VSHelper.h"
 
 #define MAX(a, b) (((a) > (b)) ? (a) : (b))
 #define MIN(a, b) (((a) < (b)) ? (a) : (b))
